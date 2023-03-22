@@ -1,0 +1,22 @@
+[2022-04-30 23:54:51] [info] Start Program:
+Path:"C:\Users\Paula\Desktop\FACULTATE\Anul 1\SEMESTRUL 2\OOP\Teme\Lab_10\Lab_10\x64\Debug\Lab_10.exe"
+Arguments:
+Working directory: "C:\Users\Paula\Desktop\FACULTATE\Anul 1\SEMESTRUL 2\OOP\Teme\Lab_10\Lab_10\Lab_10\"
+Modules: Selected: C:\Users\Paula\Desktop\FACULTATE\Anul 1\SEMESTRUL 2\OOP\Teme\Lab_10\Lab_10\x64\Debug\Lab_10.exe Excluded: 
+Sources: Selected: C:\Users\Paula\Desktop\FACULTATE\Anul 1\SEMESTRUL 2\OOP\Teme\Lab_10\Lab_10\Lab_10 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Paula\AppData\Local\Temp\zubxpqzf.hdb 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-04-30 23:54:51] [info] Module: C:\Users\Paula\Desktop\FACULTATE\Anul 1\SEMESTRUL 2\OOP\Teme\Lab_10\Lab_10\x64\Debug\Lab_10.exe is selected because it matches selected pattern: C:\Users\Paula\Desktop\FACULTATE\Anul 1\SEMESTRUL 2\OOP\Teme\Lab_10\Lab_10\x64\Debug\Lab_10.exe
+[2022-04-30 23:54:51] [info] ----------------------------------------------------
+[2022-04-30 23:54:51] [info] Coverage binary generated in file: C:\Users\Paula\AppData\Local\Temp\zubxpqzf.hdb
+[2022-04-30 23:54:51] [info] ----------------------------------------------------
+[2022-04-30 23:54:51] [error] Your program stop with error code: -1073741515
